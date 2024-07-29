@@ -26,3 +26,6 @@ A simulated research process is a method used to mimic real-world research activ
 ### What is produced:
 -  Document the entire process, from the design and execution of the simulation to the analysis and interpretation of results. Prepare reports, papers, or presentations to share findings with the scientific community or stakeholders.
 
+## Research Projects
+- [Non-Interfering Behavior strengthens personal relationship](https://github.com/fromsantanu/SR-H01-Interference-And-Relationship) : n this project, we are hypothesizing that less interference in personal matters can improve the bond in a personal relationship. We acknowledge that there are many other confounding elements in a relationship. However, this is one of the main components that can affect the relationship between two individuals.
+
