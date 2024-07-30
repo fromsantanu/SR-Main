@@ -1,4 +1,4 @@
-# Simulated Research Process
+# Simulated Research Process  ![HitCount](https://hits.dwyl.com/fromsantanu/SR-Main.svg)
 
 ## About
 ### What is Simulated Research:
